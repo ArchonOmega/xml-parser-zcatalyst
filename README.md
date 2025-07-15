@@ -253,19 +253,6 @@ The account is now blocked to be reviewed by compliance.
 ---
 
 
-
-\## ✍️ Author
-
-
-
-\*\*Ahmed Medhat Fouad\*\*  
-
-📍 Cairo, Egypt  
-
-💼 \[LinkedIn](https://www.linkedin.com/in/your-profile) • 📧 ahmed@example.com
-
-
-
 ---
 
 
