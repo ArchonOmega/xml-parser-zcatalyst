@@ -1,0 +1,15 @@
+{
+  "functions": {
+    "targets": [
+      "xml_parser",
+      "store_employees",
+      "fetch_employee",
+      "verify_employee",
+      "employee_workflow",
+      "get_crm_access_token",
+      "update_account_status"
+    ],
+    "ignore": [],
+    "source": "functions"
+  }
+}

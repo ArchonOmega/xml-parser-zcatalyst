@@ -1,0 +1,37 @@
+# Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+
+# Catalyst build artifacts
+.build/
+dist/
+*.log
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Token/Secrets dump files if any
+*.secret
+*.token
+*.bak
+
+# Ignore Catalyst CLI auth/session config (if applicable)
+catalyst-config.json
+
+# Ignore compiled zip packages (if you export bundles)
+*.zip
